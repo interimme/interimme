@@ -1,5 +1,4 @@
 ### 🚀 Greetings, my name is Kirill and I'm Software Engineer
-#### Backend Developer | Blockchain Specialist | Fintech Developer
 
 ![interimme README](https://github.com/interimme/interimme/assets/173965065/b4be6b01-c82e-4422-8b7a-a3b87b0076d3)
 
